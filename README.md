@@ -37,7 +37,8 @@ this script is not clonable or copied you are warned ^⁠_⁠^
     <a href='https://queen-sofia-session.onrender.com' target="_blank">
         <img alt='SESSION' src='https://img.shields.io/badge/Get%20Session%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
     </a>
-## Deployments Support
+
+**DEPLOYMENT METHODS**
 
 ### HEROKU
 [![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/deploy?template=https://github.com/DADDY-IGWE/QUEEN-SOFIA)
