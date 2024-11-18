@@ -75,3 +75,9 @@ Deploy to Railway for a serverless experience and ease of use with GitHub integr
 Deploy using the Pterodactyl panel for an intuitive interface to manage multiple servers easily.
 
 
+### KOYEB
+[![deploy on koyeb](https://img.shields.io/badge/Deploy%20on-koyeb-0B0D0E?style=for-the-badge&logo=pterodactyl&logoColor=white)](https://koyeb.com)
+
+Deploy using the koyeb for an intuitive interface to manage multiple servers easily.
+
+
