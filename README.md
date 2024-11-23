@@ -34,11 +34,7 @@ this script is not clonable or copied you are warned ^⁠_⁠^
 </p>
 
 <p align="center">
-    <a href='https://queen-sofia-session.onrender.com' target="_blank">
-        <img alt='SESSION' src='https://img.shields.io/badge/Get%20Session%20creds-json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
-    </a>
-<p align="center">
-    <a href='https://queen-sofia-session.onrender.com' target="_blank">
+    <a href='https://sofia-session-uid.onrender.com' target="_blank">
         <img alt='SESSION' src='https://img.shields.io/badge/Get%20Session%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
     </a>
     
